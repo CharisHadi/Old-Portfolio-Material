@@ -1,0 +1,49 @@
+.darkbrown {
+    color : #a6a37f;
+}
+
+.lightbrown {
+    color : #efeec9;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+    background-color: #efeec9;
+    color: #a6a37f;
+    font-family: 'Merriweather', serif;
+  }
+
+.topnav {
+    font-family: 'Overlock', cursive;
+}
+.tabnav {
+    font-family: 'Merriweather', serif;
+}
+
+.tabs-transparent {
+    border-bottom-color:#a6a37f;
+    border-bottom-style: solid;
+}
+
+footer {
+    border-top-color: #a6a37f;
+    border-top-style: solid;
+    font-family: 'Overlock', cursive
+}
+
+p {
+    background-color:white;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+/* font-family: 'Overlock', cursive;
+font-family: 'Gentium Basic', serif;
+font-family: 'Merriweather', serif; */

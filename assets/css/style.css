@@ -1,7 +1,8 @@
+/* Background Color */
 .darkbrown {
     color : #a6a37f;
 }
-
+/* Background Color */
 .lightbrown {
     color : #efeec9;
 }
@@ -18,10 +19,11 @@ body {
     color: #a6a37f;
     font-family: 'Merriweather', serif;
   }
-
+/* Top Navigation Font */
 .topnav {
     font-family: 'Overlock', cursive;
 }
+/* Tab Navigation Font */
 .tabnav {
     font-family: 'Merriweather', serif;
 }
@@ -42,6 +44,21 @@ p {
     padding-top: 5px;
     padding-right: 15px;
     padding-left: 15px;
+}
+.navicon {
+    height: 30px;
+    position: relative;
+    top: 10px;
+}
+
+.navicon1 {
+    height: 34.5px;
+    position: relative;
+    top: 10px;
+}
+
+li:hover {
+    cursor: pointer;
 }
 
 /* font-family: 'Overlock', cursive;

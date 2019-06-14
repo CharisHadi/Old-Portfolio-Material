@@ -51,12 +51,6 @@ p {
     top: 10px;
 }
 
-.navicon1 {
-    height: 34.5px;
-    position: relative;
-    top: 10px;
-}
-
 li:hover {
     cursor: pointer;
 }
